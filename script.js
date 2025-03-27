@@ -10,7 +10,7 @@ increaseBtn.onclick = ()=>{
     interval = setInterval(()=>{
         count ++;
         countLabel.textContent = count
-    },1000)
+    },800)
     
 }
 
